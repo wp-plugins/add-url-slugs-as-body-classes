@@ -4,7 +4,7 @@
 	Plugin Name: Add URL Slugs as Body Classes
 	Plugin URI: http://aarontgrogg.com/2012/02/24/wordpress-plugin-add-url-slugs-as-body-classes/
 	Description: Add page name and/or category slugs as additional `&lt;body&gt;` classes.
-	Version: 1.0
+	Version: 1.1
 	Author: Aaron T. Grogg
 	Author URI: http://aarontgrogg.com/
 	License: GPLv2 or later
